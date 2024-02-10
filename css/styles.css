@@ -577,13 +577,14 @@ img {
     padding-left: 16px;
     padding-right: 16px;
     background-color: transparent;
+    color: #FFFFFF;
 }
 
 .footer-form-input::placeholder {
     font-size: 12px;
     line-height: 200%;
     letter-spacing: 0.04em;
-    color: white;
+    color: #FFFFFF;
 }
 
 .footer-form-btn {
